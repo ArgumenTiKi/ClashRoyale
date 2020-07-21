@@ -1,1 +1,1 @@
-# ClashRoyale
+https://argumentiki.github.io/ClashRoyale
