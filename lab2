@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2020-10-31T10:18:37.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.8.7" etag="GGIpuHxX9CWEvlPFyq9T" type="github"><diagram id="XmQixc9YXi1nLOPZLZ8I">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-31T10:26:00.737Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="vWDKGxwF3uwJCEicFD08" version="13.8.7" type="github">
+  <diagram id="XmQixc9YXi1nLOPZLZ8I" name="Page-1">
+    <mxGraphModel dx="509" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="B5T6k1hLn8Y5Z0yH9Bm_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=openThin;endFill=0;" edge="1" parent="1" source="B5T6k1hLn8Y5Z0yH9Bm_-1" target="B5T6k1hLn8Y5Z0yH9Bm_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B5T6k1hLn8Y5Z0yH9Bm_-1" value="Вход" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="430" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5T6k1hLn8Y5Z0yH9Bm_-2" value="Ввод a, b, n" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
